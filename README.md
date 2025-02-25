@@ -9,6 +9,13 @@ Quick Recipes is a React-based web application that allows users to search for r
 - Responsive design for all screen sizes
 - Persistent state using local storage
 
+## Screenshots
+
+![On first load on desktop](images/initial-desktop.png)
+![On first load on mobile](images/initial-mobile.png)
+![Show recipe on desktop](images/show-recipe-desktop.png)
+![Show recipe on mobile](images/show-recipe-mobile.png)
+
 ## Setup and Installation
 
 ### Prerequisites
