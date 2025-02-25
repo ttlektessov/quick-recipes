@@ -47,21 +47,20 @@ Quick Recipes is a React-based web application that allows users to search for r
 ### Project Structure
 
 ```
-└──src/: Contains the source code for the application
-   └──components/: Contains the React components
-         ├──Footer.jsx: Footer component with a link to navigate back to the top of the page
-         ├──FoodItem.jsx: Component to display individual food items
-         ├──FoodList.jsx: Component to display a list of food items
-         ├──IngredientList.jsx: Component to display the list of ingredients for a recipe
-         ├──InnerContainer.jsx: Wrapper component for inner content
-         ├──Nav.jsx: Navigation component with the application title
-         ├──Recipe.jsx: Component to display detailed information about a recipe
-         ├──RecipeContainer.jsx: Wrapper component for the recipe content
-         └──Search.jsx: Component to search for recipes
-   │  ├──index.css: Global CSS styles
-   │  └──main.jsx: Entry point for the React application
-   ├──.env: Environment variables for the application
-   ├──.gitignore: Specifies files and directories to be ignored by Git
-   ├──package.json: Contains the project metadata and dependencies
-   └──vite.config.js: Configuration file for Vite
+└──src/
+   └──components/
+         ├──Footer.jsx
+         ├──FoodItem.jsx
+         ├──FoodList.jsx
+         ├──IngredientList.jsx
+         ├──InnerContainer.jsx
+         ├──Nav.jsx
+         ├──Recipe.jsx
+         ├──RecipeContainer.jsx
+         └──Search.jsx
+   │  ├──index.css
+   │  └──main.jsx
+   ├──.gitignore
+   ├──package.json
+   └──vite.config.js
 ```
